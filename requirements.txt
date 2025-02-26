@@ -1,0 +1,5 @@
+runpod
+openai
+python-doctr[torch]
+python-jose[cryptography]
+torch
